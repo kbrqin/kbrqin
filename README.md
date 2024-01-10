@@ -1,8 +1,8 @@
 ## 💫 Hi, I'm Kim!
 
-🖌️ Designer and developer working towards designing and creating accessible and user-friendly applications. 
+🖌️ Designer and developer working towards designing and creating accessible and user-friendly applications.<br>
 🌱 Currently learning CAD, game design, and development! <br>
-🔗 Check out my [website](https://kimguo.xyz/) (in progress)!
+🔗 Check out my [website](https://kimguo.xyz/) (in progress)!<br>
 ⚡ Fun fact: I love ermines and otters 🦦
 
 ## 💻 Tech Stack:
