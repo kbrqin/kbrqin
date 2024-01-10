@@ -2,7 +2,7 @@
 
 🖌️ Designer and developer working towards designing and creating accessible and user-friendly applications.<br>
 🌱 Currently learning CAD, game design, and development! <br>
-🔗 Check out my [website](https://kimguo.xyz/) (in progress)!<br>
+🔗 Check out my [website](https://kimguo.xyz/)!<br>
 ⚡ Fun fact: I love ermines and otters 🦦
 
 ## 💻 Tech Stack:
