@@ -1,4 +1,4 @@
-# 💫 hey, this is kim!
+## 💫 hey, i'm kim!
 
 💻 full-stack developer and ui/ux designer<br>
 🌱 currently exploring developing machine learning models and optimizing neural networks! <br>
