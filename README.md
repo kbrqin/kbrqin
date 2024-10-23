@@ -5,19 +5,7 @@
 🔗 check out my [website](https://kimguo.xyz/)!<br>
 📫 let's connect! [linkedin](https://www.linkedin.com/in/kbrqin/) • [email](mailto:kim.guo@uwaterloo.ca)
 
-## 💻 Tech Stack:
-
-languages
-/
-python ⋅ c++ ⋅ c ⋅ c# ⋅ java ⋅ kotlin ⋅ r ⋅ html ⋅ css ⋅ php ⋅ javascript ⋅ typescript ⋅ sql ⋅ swift ⋅ golang ⋅ shell script ⋅ excel ⋅ matlab
-libraries/frameworks
-/
-tensorflow ⋅ pytorch ⋅ scikit-learn ⋅ numpy ⋅ pandas ⋅ react ⋅ react native ⋅ angular ⋅ flask ⋅ node.js ⋅ mongodb ⋅ beautifulsoup
-design tools /
-figma ⋅ blender ⋅ adobe illustrator ⋅ adobe photoshop ⋅ adobe indesign
-developer tools
-/
-docker ⋅ git ⋅ postman api ⋅ jupyter notebook ⋅ rest apis ⋅ unity ⋅ power bi ⋅ r shiny ⋅ npm
+## 💻 tech stack:
 
 languages: 
 
