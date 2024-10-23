@@ -1,6 +1,6 @@
 ## 💫 hey, i'm kim!
 
-💻 full-stack developer and ui/ux designer<br>
+🎞️ full-stack developer and ui/ux designer, cs student at uwaterloo<br>
 🌱 currently exploring developing machine learning models and optimizing neural networks! <br>
 🔗 check out my [website](https://kimguo.xyz/)!<br>
 📫 let's connect! [linkedin](https://www.linkedin.com/in/kbrqin/) • [email](mailto:kim.guo@uwaterloo.ca)
