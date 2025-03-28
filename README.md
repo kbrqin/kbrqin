@@ -1,26 +1,25 @@
-### 💫 hey, i'm kim!
+## 💫 hey, i'm kim!
 
-🎞️ full-stack + ml developer, ui/ux designer, studying cs + statistics @uwaterloo<br>
-🌱 currently exploring neural networks and game development<br>
-🔗 check out my [website](https://kimguo.xyz/)!<br>
-📫 let's connect! [linkedin](https://www.linkedin.com/in/kbrqin/) • [email](mailto:kim.guo@uwaterloo.ca)
+🎞️ full-stack & ml developer, ui/ux designer, studying cs + statistics @uwaterloo <br/>
+🌱 currently exploring neural networks and game development <br/>
+🔗 learn more about me [here](https://kimguo.xyz/)! <br/>
+📫 i'd love to connect! [linkedin](https://www.linkedin.com/in/kbrqin/) • [email](mailto:kim.guo@uwaterloo.ca)
 
-### 💻 tech stack:
+**wip projects**
+* **speedcal**: a calendar-based productivity tool for time blockers to streamline calendar-based task management
+* **[???]**: godot-based bullet hell with multivariate calculus-centric projectile patterns
 
-languages: 
+\+ a mini queue of ideas 🙆‍♀️
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,cs,java,kotlin,r,html,css,php,js,ts,postgres,mysql,swift,bash,matlab)](https://skillicons.dev)
+<details>
+  <summary><i style="color: #6a737d;">🔍 peep tech stack</i></summary>
 
-libraries/frameworks:
+  * **languages //** python, c++, c, c#, java, kotlin, r, html, css, js/ts, php, sql (postgres), swift, bash, matlab, gdscript
 
-[![My Skills](https://skillicons.dev/icons?i=react,angular,flask,tensorflow,pytorch,sklearn,nodejs,mongodb)](https://skillicons.dev)
+  * **libraries/frameworks //** next.js, react, angular, vue, flask, pytorch, tensorflow, sklearn, node.js, supabase, mongodb
 
-development tools:
+  * **development tools //** docker, git, postman, unity, godot, npm
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,postman,unity,npm)](https://skillicons.dev)
-
-design tools:
-
-[![My Skills](https://skillicons.dev/icons?i=figma,blender,ai,ps)](https://skillicons.dev)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  * **design tools //** figma, blender, adobe illustrator, adobe photoshop
+  
+</details>
