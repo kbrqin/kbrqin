@@ -3,7 +3,7 @@
 🎞️ full-stack & ml developer, ui/ux designer, studying cs + statistics @uwaterloo <br/>
 🌱 currently exploring neural networks and game development <br/>
 🔗 learn more about me [here](https://kimguo.xyz/)! <br/>
-📫 i'd love to connect! [linkedin](https://www.linkedin.com/in/kbrqin/) • [email](mailto:kim.guo@uwaterloo.ca)
+📫 i'd love to connect + yap! [linkedin](https://www.linkedin.com/in/kbrqin/) • [email](mailto:kim.guo@uwaterloo.ca)
 
 **wip projects**
 * **speedcal**: a calendar-based productivity tool for time blockers to streamline calendar-based task management
