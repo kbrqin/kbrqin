@@ -5,7 +5,7 @@
 🔗 learn more about me [here](https://kimguo.xyz/)! <br/>
 📫 i'd love to connect + yap! [linkedin](https://www.linkedin.com/in/kbrqin/) • [email](mailto:kim.guo@uwaterloo.ca)
 
-**wip projects**
+**// current WIP projects //**
 * **speedcal**: a calendar-based productivity tool for time blockers to streamline calendar-based task management
 * **[???]**: godot-based bullet hell with multivariate calculus-centric projectile patterns
 
