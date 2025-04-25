@@ -7,11 +7,11 @@
 
 **// current WIP projects //**
 * **litepad**: quicklink style collaborative text editor for light-form notes that don't require full google docs / dropbox papers / etc – similar in concept to when2meet/lettucemeets but notepad style
-* **[???]**: godot-based bullet heaven / 2d shooter
+* **[tbd]**: godot-based bullet heaven / 2d shooter
 
 **// recently completed projects //**
-* speedcal: calendar-centric task management and productivity tool that reduces friction in calendar-blocking tasks and events
-* mirrormote: hand landmark tracker and gesture classifier with a mini character that mirrors your emotes :\]
+* **speedcal**: calendar-centric task management and productivity tool that reduces friction in calendar-blocking tasks and events
+* **mirrormote**: hand landmark tracker and gesture classifier with a mini character that mirrors your emotes :\]
 
 \+ a mini queue of ideas 🙆‍♀️
 
