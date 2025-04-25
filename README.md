@@ -6,15 +6,15 @@
 📫 i'd love to connect + yap! [linkedin](https://www.linkedin.com/in/kbrqin/) • [email](mailto:kim.guo@uwaterloo.ca)
 
 **// current WIP projects //**
-* **speedcal**: a calendar-based productivity tool for time blockers to streamline calendar-based task management
-* **[???]**: godot-based bullet hell with multivariate calculus-centric projectile patterns
+* **litepad**: quicklink style collaborative text editor for light-form notes that don't require full google docs / dropbox papers / etc – similar in concept to when2meet/lettucemeets but notepad style
+* **[???]**: godot-based bullet heaven / 2d shooter
 
 \+ a mini queue of ideas 🙆‍♀️
 
 <details>
   <summary><i style="color: #6a737d;">🔍 peep tech stack</i></summary>
 
-  * **languages //** python, c++, c, c#, java, kotlin, r, html, css, js/ts, php, sql (postgres), swift, bash, matlab, gdscript
+  * **languages //** python, c++, c, c#, java, kotlin, r, html, css, js/ts, php, sql (postgres), swift, bash, gdscript
 
   * **libraries/frameworks //** next.js, react, angular, vue, flask, pytorch, tensorflow, sklearn, node.js, supabase, mongodb
 
