@@ -5,11 +5,11 @@
 🔗 learn more about me [here](https://kimguo.xyz/)! <br/>
 📫 i'd love to connect + yap! [linkedin](https://www.linkedin.com/in/kbrqin/) • [email](mailto:kim.guo@uwaterloo.ca)
 
-**// current WIP projects //**
+**\>\> current WIP projects \<\<**
 * **litepad**: quicklink style collaborative text editor for light-form notes that don't require full google docs / dropbox papers / etc – similar in concept to when2meet/lettucemeets but notepad style
 * **[tbd]**: godot-based bullet heaven / 2d shooter
 
-**// recently completed projects //**
+**recently completed projects :o**
 * **speedcal**: calendar-centric task management and productivity tool that reduces friction in calendar-blocking tasks and events
 * **mirrormote**: hand landmark tracker and gesture classifier with a mini character that mirrors your emotes :\]
 
