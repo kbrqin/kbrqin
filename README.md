@@ -6,7 +6,7 @@
 📫 i'd love to connect + yap! [linkedin](https://www.linkedin.com/in/kbrqin/) • [email](mailto:kim.guo@uwaterloo.ca)
 
 **\>\> current WIP projects \<\<**
-* **litepad**: quicklink style collaborative text editor for light-form notes that don't require full google docs / dropbox papers / etc – similar in concept to when2meet/lettucemeets but notepad style
+* **collite**: quicklink style collaborative text editor for light-form notes that don't require full google docs / dropbox papers / etc – similar in concept to when2meet/lettucemeets but notepad style
 * **[tbd]**: godot-based bullet heaven / 2d shooter
 
 **recently completed projects :o**
@@ -15,7 +15,7 @@
 
 \+ a mini queue of ideas 🙆‍♀️
 
-<details>
+<details open>
   <summary><i style="color: #6a737d;">🔍 peep tech stack</i></summary>
 
   * **languages //** python, c++, c, c#, java, kotlin, r, html, css, js/ts, php, sql (postgres), swift, bash, gdscript
