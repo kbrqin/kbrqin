@@ -7,6 +7,8 @@
 
 **\>\> current WIP projects \<\<**
 * **collite**: quicklink style collaborative text editor for light-form notes that don't require full google docs / dropbox papers / etc – similar in concept to when2meet/lettucemeets but notepad style
+* **lockedin**: social media platform for creatives and projecters to share their projects and progress and inspire each other :)
+* **carping**: a prototype of a proposed ping system for vehicles on the road 
 * **[tbd]**: godot-based bullet heaven / 2d shooter
 
 **recently completed projects :o**
